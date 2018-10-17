@@ -1,7 +1,3 @@
-/**
- * Author: 
- */
-
 package com.example;
 
 /**
