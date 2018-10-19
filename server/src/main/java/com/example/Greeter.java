@@ -13,7 +13,8 @@ public class Greeter {
   }
 
  /**
-  * @param: someone the name of a person.
+  * This is a comment of function
+  * @param someone this is someone the name of a person.
   * @return: greeting string.
   */
   public final String greet(final String someone) {
